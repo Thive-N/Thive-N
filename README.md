@@ -10,4 +10,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thive-n&show_icons=true&locale=en" alt="thive-n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thive-n&" alt="thive-n" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Thive-N)](https://git.io/streak-stats)
