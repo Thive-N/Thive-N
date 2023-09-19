@@ -1,13 +1,35 @@
 <h1 align="center">Hi 👋, I'm Thive-N</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thive-n&label=Profile%20views&color=0e75b6&style=flat" alt="thive-n" /> </p>
 
-- 🔭 currently working on **Nihilox**
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=thive-n&label=Profile%20views&color=0e75b6&style=flat" alt="thive-n" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<div align="center">
+    <p>
+        🔭 currently working on 
+        <b>Coffee Dialer<b>
+    <p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thive-n&show_icons=true&locale=en&layout=compact" alt="thive-n" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thive-n&show_icons=true&locale=en" alt="thive-n" /></p>
+<h2 align="left">About Me</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Thive-N)](https://git.io/streak-stats)
+🖥️ a self taught programmer currently learning web development
+
+📌 based in The United Kingdom
+
+📫 contact me on discord: epressod
+
+📝 my portfolio: https://thive-n.github.io/
+
+
+
+<div align = "center">
+
+<h2 align="left">My Github Statistics</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thive-N&layout=compact&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thive-n&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true"/>
+<img src="https://streak-stats.demolab.com?user=Thive-N&theme=dark"/>
+</div>
+
+
