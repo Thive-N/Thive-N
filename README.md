@@ -7,7 +7,7 @@
 <div align="center">
     <p>
         🔭 currently working on 
-        <b>Coffee Dialer<b>
+        <b>Coffee Dialer and Cube Timer<b>
     <p>
 </div>
 
